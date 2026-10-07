@@ -1,0 +1,31 @@
+/* Mata Valdez Itzel Regina */
+
+header{
+	font-family: Times New Roman; font-size: 50px; text-align: center;
+}
+
+nav{
+	color: #A9A9A9; font-size: 15px; text-align: Center; 
+}
+
+main {
+  display: flex; padding: 100px; font-size: 20px;
+}
+
+aside {
+  flex: 1;
+}
+
+aside img {
+  width: 70%; height: auto;
+}
+
+section {
+  flex: 2;
+  text-align: justify; 
+}
+
+form{
+	font-family: Times New Roman; font-size: 20px; text-align: justify;
+}
+
