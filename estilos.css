@@ -5,7 +5,18 @@ header{
 }
 
 nav{
-	color: #A9A9A9; font-size: 15px; text-align: Center; 
+	color: #A9A9A9; font-size: 20px; text-align: Center; 
+}
+
+.nav-top {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    color: #A9A9A9;
+}
+
+.push-right {
+    margin-left: auto;
 }
 
 main {
